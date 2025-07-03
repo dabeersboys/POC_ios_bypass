@@ -32,7 +32,7 @@ Cool, but if a phone is locked how do I do this.
 
 My suggestion is, compel biometrics. In many jurisdictions courts have ruled that Biometrics are non-testimonial evidence and can therefore be compelled. Once the phone is unlocked and opened via biometrics on scene, we can start this process.
 
-Here is the scenario:
+# Here is the scenario:
 Phone is locked on scene of a search warrant.
 Warrant authorizes the compelling of biometrics.
 You unlock the suspect device via biometrics.
@@ -42,9 +42,9 @@ Plug in the appropriate USB accessory adapter (this allows the device to charge 
 BOOM! you do not lose USB restrict mode and the phone stays in an AFU state.
 
 
-Compelling of Biometrics Verbiage, big thank you to Senior Deputy District Attorney Cathee Hansen for this verbiage to add to warrants:
+# Compelling of Biometrics Verbiage, big thank you to Senior Deputy District Attorney Cathee Hansen for this verbiage to add to warrants:
 
-AFFIDAVIT:
+# AFFIDAVIT:
 Based on training, experience, and general knowledge of human behavior in today’s society,
 Your Affiant knows that most individuals own and possess a cellular telephone, and retain their
 phones on their person or in their immediate possession. See Carpenter v. United States, 138 S.
@@ -108,7 +108,7 @@ device camera of the locked device(s), for the purpose of attempting to unlock t
 biometric unlocking functionality in order to secure the phone for a later search, if one is deemed
 necessary.
 
-WARRANT:
+# WARRANT:
 During the execution of the search of the above listed residence and/or vehicle, law enforcement
 personnel are authorized to press the fingers (including thumbs) of the occupants of such
 locations to the biometric unlocking sensor of any device(s) found at that those locations, or have
