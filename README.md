@@ -1,5 +1,9 @@
 Tl:Dr- Watch the video to learn everything:
 https://youtu.be/mlaZyygO6lI
+![image](https://github.com/user-attachments/assets/71913b4b-dedb-44c7-9eda-f15a186d8e78)
+
+[![Watch the video](https://github.com/user-attachments/assets/71913b4b-dedb-44c7-9eda-f15a186d8e78)](https://youtu.be/mlaZyygO6lI)
+
 
 
 
