@@ -26,6 +26,7 @@ These are the HID devices<br>
 https://www.amazon.com/dp/B0836WXQQR?smid=A2Z10KY0342329&ref_=chk_typ_imgToDp&th=1
 
 <br>being used with these accessory adapters,
+
 https://www.amazon.com/dp/B0DB7GHCQB?ref=ppx_yo2ov_dt_b_fed_asin_title or <br>
 
 https://www.amazon.com/Certified-Lightning-Charging-Portable-Compatible/dp/B0CYC9JZBR/ref=pd_bxgy_d_sccl_1/132-9867293-0607660?pd_rd_w=PmQFd&content-id=amzn1.sym.de9a1315-b9df-4c24-863c-7afcb2e4cc0a&pf_rd_p=de9a1315-b9df-4c24-863c-7afcb2e4cc0a&pf_rd_r=APDFXS8GRFXW93F6P2M2&pd_rd_wg=PVpLq&pd_rd_r=f28e32da-135a-47ae-b367-ff1d001e58a6&pd_rd_i=B0CYC9JZBR&th=1
@@ -40,8 +41,8 @@ My suggestion is, compel biometrics. In many jurisdictions courts have ruled tha
 Phone is locked on scene of a search warrant.
 Warrant authorizes the compelling of biometrics.
 You unlock the suspect device via biometrics.
-Navigate to Settings>>Accessibility>>Touch
-Turn on AssistiveTouch (NO PIN CODE REQUIRED)
+Navigate to <b>Settings>>Accessibility>>Touch
+Turn on AssistiveTouch (NO PIN CODE REQUIRED)</b>
 Plug in the appropriate USB accessory adapter (this allows the device to charge AND plug in the mouse jiggler)
 BOOM! you do not lose USB restrict mode and the phone stays in an AFU state.
 
