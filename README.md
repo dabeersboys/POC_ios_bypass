@@ -21,10 +21,10 @@ The problem my buddy and I found is that most USB mouse jigglers move the mouse 
 
 Ordered some AtTiny85 USB PCB boards, program and develop my own USB Mouse Jiggler that I can specify the duration to wiggle the "mouse" on to keep a phone awake- and cost considerably less than a Flipper Zero (around 5 dollars or less).  
 
-These are the HID devices
+These are the HID devices<br>
 https://www.amazon.com/dp/B0836WXQQR?smid=A2Z10KY0342329&ref_=chk_typ_imgToDp&th=1
-being used with these accessory adapters,
-https://www.amazon.com/dp/B0DB7GHCQB?ref=ppx_yo2ov_dt_b_fed_asin_title or 
+<br>being used with these accessory adapters,
+https://www.amazon.com/dp/B0DB7GHCQB?ref=ppx_yo2ov_dt_b_fed_asin_title or <br>
 https://www.amazon.com/Certified-Lightning-Charging-Portable-Compatible/dp/B0CYC9JZBR/ref=pd_bxgy_d_sccl_1/132-9867293-0607660?pd_rd_w=PmQFd&content-id=amzn1.sym.de9a1315-b9df-4c24-863c-7afcb2e4cc0a&pf_rd_p=de9a1315-b9df-4c24-863c-7afcb2e4cc0a&pf_rd_r=APDFXS8GRFXW93F6P2M2&pd_rd_wg=PVpLq&pd_rd_r=f28e32da-135a-47ae-b367-ff1d001e58a6&pd_rd_i=B0CYC9JZBR&th=1
 
 and a battery pack.
